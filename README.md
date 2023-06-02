@@ -1,17 +1,7 @@
-<style>
-    :root {
-            --white:#ffffff;
-            --black: #000000;
-            --blue: #2c2cc2;
-            --gray: #aea8ba;
-            --dark-gray:#494454;
-        }
-</style>
-
 </head>
 <body>
     <br>
-    <div style="display:inline-block; border-radius:3px;background-image:linear-gradient(var(--dark-gray),var(--blue)); width:100%;height: 100px;display:grid;place-items:center">
+    <div style="display:inline-block; border-radius:3px;background-image:linear-gradient(#494454),#2c2cc2); width:100%;height: 100px;display:grid;place-items:center">
             <h1>Hi, I'm Jeisson</h1>
         
     </div>
