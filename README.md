@@ -1,16 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        :root {
+<style>
+    :root {
             --white:#ffffff;
             --black: #000000;
             --blue: #2c2cc2;
             --gray: #aea8ba;
             --dark-gray:#494454;
         }
-        
-    </style>
+</style>
 
 </head>
 <body>
