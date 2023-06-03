@@ -1,8 +1,6 @@
-<img href="https://github.com/Jeygo405/Jeygo405/issues/1#issue-1739899357" width="100"/>
-    <div>
-        <p>Electronic engineer with interest in programming and various areas of technology. with interest in mathematics, physics and analysis.</p>
-    </div>
-
+<img src="https://github.com/Jeygo405/Jeygo405/issues/1#issue-1739899357" width="100"/>
+    
+# Electronic engineer with interest in programming and various areas of technology. with interest in mathematics, physics and analysis.
     <div style="display:flex; align-items: center;justify-content: start">
         <img src="https://prepinsta.com/wp-content/uploads/2020/07/python-removebg-preview.webp" width="40" height="40" ><ul>python</ul>    
     </div> 
