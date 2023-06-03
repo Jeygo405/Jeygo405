@@ -2,13 +2,13 @@
     
 Electronic engineer with interest in programming and various areas of technology. with interest in mathematics, physics and analysis.
 #Contacts
-Email: num.jey98ægmial.com
-Linkeding: https://www.linkedin.com/in/jeygo/
+    - Email: num.jey98ægmial.com
+    - Linkeding: https://www.linkedin.com/in/jeygo/
 
 ##skills:
-    1.Python
+    1. Python
         Flask
         Selenium
-    2.JavaScript
+    2. JavaScript
         Node
-    3.HTML-CSS
+    3. HTML-CSS
