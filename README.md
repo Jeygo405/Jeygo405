@@ -5,10 +5,10 @@ Electronic engineer with interest in programming and various areas of technology
 Email: num.jey98ægmial.com
 Linkeding: https://www.linkedin.com/in/jeygo/
 
-##skills
-1.Python
-    Flask
-    Selenium
-2.JavaScript
-    Node
-3.HTML-CSS
+##skills:
+    1.Python
+        Flask
+        Selenium
+    2.JavaScript
+        Node
+    3.HTML-CSS
